@@ -103,15 +103,3 @@ The desktop application provides:
 - Error and success notifications
 
 ---
-
-## Future Improvements
-
-- Content-based recommendation system
-- Collaborative filtering
-- Deep Learning-based recommendation
-- Movie poster integration
-- IMDb API integration
-- Genre and language filters
-- Web application using Flask or Streamlit
-
----
